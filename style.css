@@ -1,0 +1,141 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.logo img {
+    width: 13%;
+}
+
+h2 {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: bolder;
+    font-size: 27px;
+}
+
+.reservations {
+    text-align: center;
+}
+
+.reservations p {
+    font-weight: 700;
+    font-size: 62px;
+    margin: auto;
+}
+
+
+.footer-basic {
+    padding: 20px 0;
+    background-color: #ffffff;
+    color: #4b4c4d;
+    text-align: center;
+    font-weight: 800;
+    font-size: 130%;
+    margin: auto;
+}
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+    .logo img {
+        width: 20%;
+    }
+
+    h2 {
+        font-size: 22px;
+    }
+    article img {
+        width: 50%;
+    }
+    .reservations p {
+        font-size: 28px;
+    }
+    .footer-basic {
+        font-size: 90%;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    .logo img {
+        width: 25%;
+    }
+
+    h2 {
+        font-size: 28px;
+    }
+    article img {
+        width: 55%;
+    }
+    .reservations p {
+        font-size: 35px;
+    }
+    .footer-basic {
+        font-size: 100%;
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    .logo img {
+        width: 30%;
+    }
+
+    h2 {
+        font-size: 39px;
+    }
+    article img {
+        width: 60%;
+    }
+    .reservations p {
+        font-size: 46px;
+    }
+    .footer-basic {
+        font-size: 106%;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .logo img {
+        width: 35%;
+    }
+
+    h2 {
+        font-size: 44px;
+    }
+    article img {
+        width: 70%;
+    }
+    .reservations p {
+        font-size: 52px;
+    }
+    .footer-basic {
+        font-size: 112%;
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    .logo img {
+        width: 30%;
+    }
+
+    h2 {
+        font-size: 49px;
+    }
+    article img {
+        width: 70%;
+    }
+    .reservations p {
+        font-size: 57px;
+    }
+    .footer-basic {
+        font-size: 120%;
+    }
+}
