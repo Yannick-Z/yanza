@@ -19,6 +19,7 @@ h2 {
 
 .reservations {
     text-align: center;
+    padding-top: 20px;
 }
 
 .reservations p {
@@ -29,7 +30,7 @@ h2 {
 
 
 .footer-basic {
-    padding: 70px 0;
+    padding: 40px 0;
     background-color: #ffffff;
     color: #4b4c4d;
     text-align: center;
