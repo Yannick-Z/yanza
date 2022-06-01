@@ -29,7 +29,7 @@ h2 {
 
 
 .footer-basic {
-    padding: 20px 0;
+    padding: 70px 0;
     background-color: #ffffff;
     color: #4b4c4d;
     text-align: center;
@@ -96,7 +96,7 @@ h2 {
         font-size: 46px;
     }
     .footer-basic {
-        font-size: 106%;
+        font-size: 110%;
     }
 }
 
@@ -116,7 +116,7 @@ h2 {
         font-size: 52px;
     }
     .footer-basic {
-        font-size: 112%;
+        font-size: 130%;
     }
 }
 
@@ -136,6 +136,6 @@ h2 {
         font-size: 57px;
     }
     .footer-basic {
-        font-size: 120%;
+        font-size: 150%;
     }
 }
