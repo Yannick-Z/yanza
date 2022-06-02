@@ -1,3 +1,10 @@
+audio {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    background-color: black;
+}
+
 img {
     display: block;
     margin-left: auto;
@@ -50,14 +57,22 @@ h2 {
     h2 {
         font-size: 22px;
     }
+
     article img {
         width: 50%;
     }
+
     .reservations p {
         font-size: 28px;
     }
+
     .footer-basic {
         font-size: 90%;
+    }
+
+    audio {
+        width: 25%;
+        height: 30px;
     }
 }
 
@@ -70,14 +85,22 @@ h2 {
     h2 {
         font-size: 28px;
     }
+
     article img {
         width: 55%;
     }
+
     .reservations p {
         font-size: 35px;
     }
+
     .footer-basic {
         font-size: 100%;
+    }
+
+    audio {
+        width: 30%;
+        height: 30px;
     }
 }
 
@@ -90,14 +113,22 @@ h2 {
     h2 {
         font-size: 39px;
     }
+
     article img {
         width: 60%;
     }
+
     .reservations p {
         font-size: 46px;
     }
+
     .footer-basic {
         font-size: 110%;
+    }
+
+    audio {
+        width: 30%;
+        height: 30px;
     }
 }
 
@@ -110,12 +141,15 @@ h2 {
     h2 {
         font-size: 44px;
     }
+
     article img {
         width: 70%;
     }
+
     .reservations p {
         font-size: 52px;
     }
+
     .footer-basic {
         font-size: 130%;
     }
@@ -130,13 +164,18 @@ h2 {
     h2 {
         font-size: 49px;
     }
+
     article img {
         width: 70%;
     }
+
     .reservations p {
         font-size: 57px;
     }
+
     .footer-basic {
         font-size: 150%;
     }
+
+
 }
